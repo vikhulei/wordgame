@@ -1,6 +1,8 @@
+import "../styles/Results_style.css"
+
 const Results = () => {
     return (
-        <div>
+        <div className="wrapper_results">
             Hello from Results
         </div>
     )

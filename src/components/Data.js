@@ -1,8 +1,8 @@
-
+import "../styles/Data_style.css"
 
 const Data = () => {
     return (
-        <div>
+        <div className="wrapper_data">
             Hello from Data
         </div>
     )
