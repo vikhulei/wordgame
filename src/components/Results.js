@@ -1,4 +1,4 @@
-import "../styles/Results_style.css"
+import "../styles/Results.css"
 
 const Results = () => {
     return (
